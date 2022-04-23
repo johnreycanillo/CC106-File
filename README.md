@@ -8,7 +8,7 @@ https://www.postman.com/JuanderingBisaya/workspace/node-mongo-cc106-api-canillo/
 
 https://www.postman.com/JuanderingBisaya/workspace/node-mongo-cc106-api-canillo/collection/14455035-87b319fe-bd99-48e2-8340-5812ea97f5d1?action=share&creator=14455035
 
-#Repositoty
+#Repository
 
 https://github.com/johnreycanillo/API
 
