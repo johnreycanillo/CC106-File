@@ -1,4 +1,4 @@
-# CC106-File
+# CC106  File
 
 # Node-Mongo-Registration-Login-API
 
@@ -10,6 +10,6 @@ https://www.postman.com/JuanderingBisaya/workspace/node-mongo-cc106-api-canillo/
 
 #Repository
 
-https://github.com/johnreycanillo/API
+https://github.com/johnreycanillo/API-master
 
 https://github.com/johnreycanillo/FRONT-END
