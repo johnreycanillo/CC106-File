@@ -10,7 +10,7 @@ https://www.postman.com/JuanderingBisaya/workspace/node-mongo-cc106-api-canillo/
 
 #Repository Updated
 
-https://github.com/johnreycanillo/NodeJS-MongoDB-
+https://github.com/johnreycanillo/Angular-10-Boilerplate-Email-Sign-Up-with-Verification-Authentication-Forgot-Password
 
 https://github.com/johnreycanillo/With-Role-Simple-API-for-Authentication-Registration-and-User-Management
 
