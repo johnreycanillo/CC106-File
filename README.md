@@ -12,4 +12,4 @@ https://www.postman.com/JuanderingBisaya/workspace/node-mongo-cc106-api-canillo/
 
 https://github.com/johnreycanillo/API-master
 
-https://github.com/johnreycanillo/FRONT-END
+https://github.com/johnreycanillo/Angular-10-App-with-the-Node-Boilerplate-API-master
