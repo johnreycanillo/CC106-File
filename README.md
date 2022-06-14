@@ -14,4 +14,4 @@ https://github.com/johnreycanillo/NodeJS-MongoDB-
 
 https://github.com/johnreycanillo/With-Role-Simple-API-for-Authentication-Registration-and-User-Management
 
-https://github.com/johnreycanillo/With-ROLE-Angular-10-App-with-the-Node-Boilerplate-API-master
+https://github.com/johnreycanillo/With-Role-Angular-10-App-with-the-Node-Boilerplate-API-master
